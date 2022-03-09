@@ -1,6 +1,6 @@
 
-var result = "#";
-while(result.length <= 7 ){
-console.log(result);
-result = result + "#";
+var sharp = "#";
+while(sharp.length <= 7 ){
+console.log(sharp);
+sharp = sharp + "#";
 }
